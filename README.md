@@ -1,7 +1,3 @@
-
-# SteroCluster
-Python Script for clustering  Stero-seq datas
-
 # SteroCluster 简介及使用指南
 
 ## 简介
