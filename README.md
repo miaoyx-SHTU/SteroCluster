@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+# SteroCluster
+Python Script for clustering  Stero-seq datas
+
 # SteroCluster 简介及使用指南
 
 ## 简介
@@ -705,7 +708,3 @@ python数据分析包|Pandas-02之缺失值（NA）处理 https://zhuanlan.zhihu
 【Python数据清洗】pivot_table 与 pivot 的区别——手把手系列 https://blog.csdn.net/qq_39885465/article/details/115485211
 
 【Python-数据分析】如何用Python实现长宽数据的转换 https://zhuanlan.zhihu.com/p/559442802
-=======
-# SteroCluster
-Python Script for clustering  Stero-seq datas
->>>>>>> 634617aa254a68def4f27c643bdcf053368e220b
