@@ -598,7 +598,7 @@ total 16
 
 #### QC metrics 
 
-![QC_counts_fig.jpg](attachment:QC_counts_fig.jpg)
+![QC_counts_fig.jpg](attachment:./fig/QC_counts_fig.jpg)
 
 #### UMAP
 
