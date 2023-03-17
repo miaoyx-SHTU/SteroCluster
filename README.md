@@ -598,15 +598,15 @@ total 16
 
 #### QC metrics 
 
-![QC_counts_fig.jpg](attachment:QC_counts_fig.jpg)
+![QC_counts_fig.jpg](QC_counts_fig.jpg)
 
 #### UMAP
 
-![UMAP_cluster_fig.jpg](attachment:UMAP_cluster_fig.jpg)
+![UMAP_cluster_fig.jpg](UMAP_cluster_fig.jpg)
 
 #### Spatial coordinates plot
 
-![Spatial_coordinates_fig.jpg](attachment:Spatial_coordinates_fig.jpg)
+![Spatial_coordinates_fig.jpg](Spatial_coordinates_fig.jpg)
 
 ## 数据结构分析
 
